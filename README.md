@@ -53,12 +53,21 @@
 #### Interactive
   - The shell should work like this in interactive mode:
     
-    - '$ ./hsh
-       ($) /bin/ls
-       hsh main.c shell.c
-       ($)
-       ($) exit
-       $'
+  ```bash
+  $ ./hsh
+  ($) /bin/ls
+  hsh main.c shell.c
+  ($)
+  ($) exit
+  $
+ <style>
+  .highlight  pre {
+    background-color: #f8f8f8;
+    border-radius: 5px;
+    padding: 10px
+  }
+ </style> 
+
     
 #### Non-Interactive
   -In the non-interactive mode should work like this:
