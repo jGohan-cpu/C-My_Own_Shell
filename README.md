@@ -1,6 +1,6 @@
-![animated banner](SimpleShellBanner.gif/SimpleShellBanner.gif)
+![animated banner](holbertonschool-simple_shell/SimpleShellBanner.gif)
 <p align="center">
-  <img src="SimpleShellBanner.gif/SimpleShellBanner.gif" width="500" height="200">
+  <img src="holbertonschool-simple_shell/SimpleShellBanner.gif" width="500" height="200">
 </p>
 
 
