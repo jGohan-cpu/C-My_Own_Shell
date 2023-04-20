@@ -6,15 +6,23 @@
 
 ## **:clipboard: Table of Contents**
 1. [Introduction](#introduction)
-2. [Project](#Project)
-3.  - General Requirements
-4.  - Allowed Functions
-5.  - Compilation
-6.  - Testing
-7.    - Interactive
-8.    - Non-Interactive
-9.  - Tasks
-10. [Project Documentation](#documentation)
-11. [Authors](#authors)
+2. [Sypnosis](#sypnosis)
+3. [Project](#Project)
+  - General Requirements
+  - Functions and system calls used
+  - Description of each file
+    -Description of helper files
+  - Compilation
+  - Testing
+    - Interactive
+    - Non-Interactive
+    - Sample usage
+    - Stop and return to your original shell
+  - Project Tasks
+4. [Project Documentation](#documentation)
+5. [Authors](#authors)
 
 ## Introduction
+ * In this project we coded from scratch a simple Unix shell.
+  
+  ** What is a shell?
