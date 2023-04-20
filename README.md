@@ -38,9 +38,9 @@
 
 ### General Requirements
   
-  - Allowed editors: vi, vim, emacs
+  - Allowed editors: `vi`, `vim`, `emacs`
   - All the files should end with a new line
-  - A README.md file, at the root of the folder of the project is mandatory
+  - A `README.md` file, at the root of the folder of the project is mandatory
   - The shell should not have any memory leaks
   - No more than 5 functions per file
   - All the header files should be include guarded
@@ -141,7 +141,7 @@
        - We don't have to:
         - use the PATH
         - implement built-ins
-        - handle special characters : ", ', `, \, *, &, #
+        - handle special characters : `", ', `, \, *, &, #`
         - be able to move the cursor
         - handle commands with arguments
   - Task 3
