@@ -67,7 +67,8 @@
   
    -You can test our custom version of the shel in the interactive and non-interactive mode.
     
-#### Interactive
+#### Interactive mode
+
   - The shell should work like this in interactive mode:
     
   ```bash
@@ -79,7 +80,7 @@
   $
   ```
     
-#### Non-Interactive
+#### Non-Interactive mode
 
   -In the non-interactive mode should work like this:
   
@@ -118,6 +119,44 @@
   
     
 ## Project Tasks
+
+-We as a team have to follow a few given tasks to complete this project. Below you will find those tasks and what requirements have each one:
+
+  - Task 0
+    - Write a README
+    - Write a man for your shell
+    - AUTHORS file at the root of your repository
+  - Task 1
+    - Write a beautiful code that passes the Betty checks
+  - Task 2
+    -Write a UNIX command line interpreter
+      - The Shell should:
+        - Display a prompt and wait for the user to type a command. A command line always ends with a new line
+        - The prompt is displayed again each time a command has been executed.
+        - The command lines are simple, no semicolons, no pipes, no redirections or any other advanced features.
+        - The command lines are made only of one word. No arguments will be passed to programs.
+        - If an executable cannot be found, print an error message and display the prompt again.
+        - Handle errors.
+        - Have to handle the “end of file” condition (Ctrl+D)
+       - We don't have to:
+        - use the PATH
+        - implement built-ins
+        - handle special characters : ", ', `, \, *, &, #
+        - be able to move the cursor
+        - handle commands with arguments
+  - Task 3
+    - Handle command lines with arguments
+  - Task 4 
+    - Handle the PATH
+    - fork must not be called if the command doesn’t exist
+  - Task 5 
+    - Implement the exit built-in, that exits the shell
+    - Usage: exit
+    - Don’t have to handle any argument to the built-in exit
+  - Task 6
+    - Implement the env built-in, that prints the current environment
+
+
 
 ## Project Documentation
 
