@@ -4,7 +4,7 @@
 </p>
 
 
-:clipboard:## Table of Contents
+:clipboard: ## Table of Contents
 1. [Introduction](#introduction)
 2. [Tasks](#tasks)
 3. [Documentation](#documentation)
