@@ -1,4 +1,7 @@
 ![animated banner](SimpleShellBanner.gif/SimpleShellBanner.gif)
+<p align="center">
+  <img src="SimpleShellBanner.gif/SimpleShellBanner.gif" width="500" height="200">
+</p>
 
 
 ## Table of Contents
