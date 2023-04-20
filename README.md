@@ -1,4 +1,4 @@
-![animated banner](holbertonschool-simple_shell/SimpleShellBanner.gif)
+![animated banner](SimpleShellBanner.gif/SimpleShellBanner.gif)
 
 
 ## Table of Contents
