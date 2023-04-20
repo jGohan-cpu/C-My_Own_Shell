@@ -61,7 +61,7 @@
 ### Compilation
   - All of our files will be compiled using:
 
-    - `gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh`
+    `gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh`
   
 ### Testing
   
@@ -137,17 +137,17 @@
         - The command lines are made only of one word. No arguments will be passed to programs.
         - If an executable cannot be found, print an error message and display the prompt again.
         - Handle errors.
-        - Have to handle the “end of file” condition (Ctrl+D)
+        - Have to handle the “end of file” condition (`Ctrl+D`)
        - We don't have to:
-        - use the PATH
+        - use the `PATH`
         - implement built-ins
-        - handle special characters : `"`, `'`, ```, `\`, `*`, `&`, `#`
+        - handle special characters : `"`, `'`, `, `\`, `*`, `&`, `#`
         - be able to move the cursor
         - handle commands with arguments
   - Task 3
     - Handle command lines with arguments
   - Task 4 
-    - Handle the PATH
+    - Handle the `PATH`
     - fork must not be called if the command doesn’t exist
   - Task 5 
     - Implement the exit built-in, that exits the shell
