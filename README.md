@@ -66,8 +66,8 @@
     border-radius: 5px;
     padding: 10px
   }
-  </style> ```
-
+  </style>
+  ```
     
 #### Non-Interactive
   -In the non-interactive mode should work like this:
