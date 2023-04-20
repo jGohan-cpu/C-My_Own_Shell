@@ -68,7 +68,7 @@
 
   -In the non-interactive mode should work like this:
   
-    ```bash  
+      
     $ echo "/bin/ls" | ./hsh
     hsh main.c shell.c test_ls_2
     $
@@ -80,7 +80,7 @@
     hsh main.c shell.c test_ls_2
     hsh main.c shell.c test_ls_2
     $
-    ```
+    
 
 #### Sample usage
 
