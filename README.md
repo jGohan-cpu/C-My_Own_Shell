@@ -44,6 +44,8 @@
 #### Description of helper files
     
 ### Compilation
+  - All of our files will be compiled using
+  -  <span style="background-color:light gray">gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh</span>
   
 ### Testing
     
@@ -51,11 +53,11 @@
     
 #### Non-Interactive
     
-### Sample usage
+#### Sample usage
     
-### Stop and return to your original shell
+#### Stop and return to your original shell
     
-### Project Tasks
+## Project Tasks
 
 ## Project Documentation
 
