@@ -1,6 +1,6 @@
-![animated banner](holbertonschool-simple_shell/SimpleShellBanner.gif)
+![animated banner](https://github.com/jGohan-cpu/holbertonschool-simple_shell/edit/master/README.md)
 <p align="center">
-  <img src="holbertonschool-simple_shell/SimpleShellBanner.gif" width="500" height="200">
+  <img src="https://github.com/jGohan-cpu/holbertonschool-simple_shell/edit/master/README.md" width="500" height="200">
 </p>
 
 
