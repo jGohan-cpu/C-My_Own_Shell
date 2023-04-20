@@ -45,7 +45,7 @@
     
 ### Compilation
   - All of our files will be compiled using
-  -  <span style="background-color:light gray">gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh</span>
+  -  `gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh`
   
 ### Testing
     
