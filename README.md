@@ -53,12 +53,12 @@
 #### Interactive
   - The shell should work like this in interactive mode:
     
-$ ./hsh
-($) /bin/ls
-hsh main.c shell.c
-($)
-($) exit
-$
+    - '$ ./hsh
+       ($) /bin/ls
+       hsh main.c shell.c
+       ($)
+       ($) exit
+       $'
     
 #### Non-Interactive
   -In the non-interactive mode should work like this:
