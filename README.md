@@ -141,20 +141,20 @@
        - We don't have to:
         - use the `PATH`
         - implement built-ins
-        - handle special characters : `"`, `'`, `, `\`, `*`, `&`, `#`
+        - handle special characters : `"`, `'`, ``, `\`, `*`, `&`, `#`
         - be able to move the cursor
         - handle commands with arguments
   - Task 3
     - Handle command lines with arguments
   - Task 4 
     - Handle the `PATH`
-    - fork must not be called if the command doesn’t exist
+    - `fork` must not be called if the command doesn’t exist
   - Task 5 
-    - Implement the exit built-in, that exits the shell
-    - Usage: exit
-    - Don’t have to handle any argument to the built-in exit
+    - Implement the `exit` built-in, that exits the shell
+    - Usage: `exit`
+    - Don’t have to handle any argument to the built-in `exit`
   - Task 6
-    - Implement the env built-in, that prints the current environment
+    - Implement the `env` built-in, that prints the current environment
 
 
 
