@@ -44,14 +44,36 @@
 #### Description of helper files
     
 ### Compilation
-  - All of our files will be compiled using
-  -  `gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh`
+  - All of our files will be compiled using:
+
+    - `gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh`
   
 ### Testing
     
 #### Interactive
+  - The shell should work like this in interactive mode:
+    
+`$ ./hsh
+($) /bin/ls
+hsh main.c shell.c
+($)
+($) exit
+$'
     
 #### Non-Interactive
+  -In the non-interactive mode should work like this:
+  
+'$ echo "/bin/ls" | ./hsh
+hsh main.c shell.c test_ls_2
+$
+$ cat test_ls_2
+/bin/ls
+/bin/ls
+$
+$ cat test_ls_2 | ./hsh
+hsh main.c shell.c test_ls_2
+hsh main.c shell.c test_ls_2
+$'
     
 #### Sample usage
     
