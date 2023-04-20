@@ -38,6 +38,14 @@
 
 ### General Requirements
   
+  - Allowed editors: vi, vim, emacs
+  - All the files should end with a new line
+  - A README.md file, at the root of the folder of the project is mandatory
+  - The shell should not have any memory leaks
+  - No more than 5 functions per file
+  - All the header files should be include guarded
+  - The se system calls should be only when needed to
+  
 ### Functions and system calls used
   
 ### Description of each file
