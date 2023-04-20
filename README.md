@@ -60,13 +60,6 @@
   ($)
   ($) exit
   $
- <style>
-  .highlight  pre {
-    background-color: #f8f8f8;
-    border-radius: 5px;
-    padding: 10px
-  }
-  </style>
   ```
     
 #### Non-Interactive
