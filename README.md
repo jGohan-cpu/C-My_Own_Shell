@@ -12,6 +12,7 @@
   - Functions and system calls used
   - Description of each file
     - Description of helper files
+  - Environment
   - Compilation
   - Testing
     - Interactive
@@ -42,6 +43,12 @@
 ### Description of each file
 
 #### Description of helper files
+
+### Environment
+  - Language: C
+  - OS: Ubuntu 20.04
+  - Compiler: gcc
+  - Style guideines: Betty Style
     
 ### Compilation
   - All of our files will be compiled using:
