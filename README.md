@@ -1,7 +1,7 @@
 ## Table of Contents
-[Introduction](#introduction)
-[Tasks](#tasks)
-[Documentation](#documentation)
-[Authors](#authors)
+1. [Introduction](#introduction)
+2. [Tasks](#tasks)
+3. [Documentation](#documentation)
+4. [Authors](#authors)
 
 ## Introduction
