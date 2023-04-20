@@ -35,25 +35,25 @@
   
 ## Project
 
-  ### General Requirements
+   ### General Requirements
   
-  ### Functions and system calls used
+   ### Functions and system calls used
   
   ### Description of each file
   
-    ### Description of helper files
+   ### Description of helper files
     
   ### Compilation
   
   ### Testing
     
-    ### Interactive
+   ### Interactive
     
-    ### Non-Interactive
+   ### Non-Interactive
     
-    ### Sample usage
+   ### Sample usage
     
-    ### Stop and return to your original shell
+   ### Stop and return to your original shell
     
   ### Project Tasks
 
