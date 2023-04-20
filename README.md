@@ -49,6 +49,8 @@
     - `gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh`
   
 ### Testing
+  
+   -You can test our custom version of the shel in the interactive and non-interactive mode.
     
 #### Interactive
   - The shell should work like this in interactive mode:
@@ -63,23 +65,42 @@
   ```
     
 #### Non-Interactive
+
   -In the non-interactive mode should work like this:
   
-$ echo "/bin/ls" | ./hsh
-hsh main.c shell.c test_ls_2
-$
-$ cat test_ls_2
-/bin/ls
-/bin/ls
-$
-$ cat test_ls_2 | ./hsh
-hsh main.c shell.c test_ls_2
-hsh main.c shell.c test_ls_2
-$
-    
+    ```bash  
+    $ echo "/bin/ls" | ./hsh
+    hsh main.c shell.c test_ls_2
+    $
+    $ cat test_ls_2
+    /bin/ls
+    /bin/ls
+    $
+    $ cat test_ls_2 | ./hsh
+    hsh main.c shell.c test_ls_2
+    hsh main.c shell.c test_ls_2
+    $
+    ```
+
 #### Sample usage
+
+  - This is a simple explame of what and how can you do some commands in our custom shell:
     
+    ```bash
+    $ echo "This is a pretty cool!"
+    This is pretty cool!
+    $ man ./man_1_simple_shell (opens our manpage for more information)
+    ```
+
 #### Stop and return to your original shell
+
+  - To stop our shell and return to your original shell you should type the command:
+    
+    ```bash
+    $ exit
+    (your_terminal)$
+    ```
+  
     
 ## Project Tasks
 
