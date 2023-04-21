@@ -38,6 +38,8 @@
   
 ## **💽Project**
 
+[Back to the Top](#table-of-contents)
+
 ### **📑General Requirements**
   
   - Allowed editors: `vi`, `vim`, `emacs`
@@ -47,18 +49,28 @@
   - No more than 5 functions per file
   - All the header files should be include guarded
   - The se system calls should be only when needed to
+
+[Back to the Top](#table-of-contents)
   
 ### **💻Functions and system calls used**
+
+[Back to the Top](#table-of-contents)
   
 ### **🗂️Description of each file**
 
+[Back to the Top](#table-of-contents)
+
 #### **🗂️Description of helper files**
+
+[Back to the Top](#table-of-contents)
 
 ### **🌎Environment**
   - Language: C
   - OS: Ubuntu 20.04
   - Compiler: gcc
   - Style guideines: Betty Style
+
+[Back to the Top](#table-of-contents)
     
 ### **💻Compilation**
   - All of our files will be compiled using:
@@ -118,6 +130,8 @@
     $ exit
     (your_terminal)$
     ```
+    
+[Back to the Top](#table-of-contents)
   
     
 ## 📝Project Tasks
@@ -158,10 +172,16 @@
   - Task 6
     - Implement the `env` built-in, that prints the current environment
 
+[Back to the Top](#table-of-contents)
+
 
 
 ## **📚Project Documentation**
 
+[Back to the Top](#table-of-contents)
+
 ## 🤝Authors
 ![Jose Rivera](https://github.com/jGohan-cpu)
 ![Eduardo Figueroa](https://github.com/semaed)
+
+[Back to the Top](#table-of-contents)
