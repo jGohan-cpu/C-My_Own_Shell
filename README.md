@@ -158,8 +158,8 @@
 
 
 
-## Project Documentation
+## **:books: Project Documentation**
 
-## Authors
+## 🤝Authors
 ![Jose Rivera](https://github.com/jGohan-cpu)
 ![Eduardo Figueroa](https://github.com/semaed)
