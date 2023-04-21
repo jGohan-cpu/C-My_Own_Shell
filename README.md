@@ -1,16 +1,16 @@
 <!DOCTYPE html>
 <html>
   <head>
-   <style>
-    body {
-     color: white !important;
-     background-color: black;
-    }
-   <style>
-  <head>
+    <style>
+      body {
+        color: white !important;
+        background-color: black;
+      }
+    </style>
+  </head>
   <body>
-   <p>Top</p>
-  <body> 
+    <p>Top</p>
+  </body>
 </html>
 <p align="center">
   <img src="SimpleShellBanner.gif" width="650" height="200">
