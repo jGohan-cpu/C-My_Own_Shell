@@ -36,7 +36,7 @@
   
 ## **:minidisc: Project**
 
-### **:open_file_folder: General Requirements**
+### **:bookmark_tabs: General Requirements**
   
   - Allowed editors: `vi`, `vim`, `emacs`
   - All the files should end with a new line
