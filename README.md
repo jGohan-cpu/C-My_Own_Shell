@@ -125,7 +125,7 @@
     (your_terminal)$
     ```
     
-[Back to the Top](#table-of-contents)
+[Back to Top](#table-of-contents)
   
     
 ## 📝Project Tasks
@@ -166,16 +166,16 @@
   - Task 6
     - Implement the `env` built-in, that prints the current environment
 
-[Back to the Top](#table-of-contents)
+[Back to Top](#table-of-contents)
 
 
 
 ## **📚Project Documentation**
 
-[Back to the Top](#table-of-contents)
+[Back to Top](#table-of-contents)
 
 ## 🤝Authors
 ![Jose Rivera](https://github.com/jGohan-cpu)
 ![Eduardo Figueroa](https://github.com/semaed)
 
-[Back to the Top](#table-of-contents)
+[Back to Top](#table-of-contents)
