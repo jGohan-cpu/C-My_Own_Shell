@@ -56,7 +56,7 @@
 ### **🗃Description of each file**
 
 
-#### **🗂️Description of helper files**
+#### **🗂Description of helper files**
 
 
 ### **🌎Environment**
