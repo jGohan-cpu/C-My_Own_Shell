@@ -23,7 +23,7 @@
 4. [Project Documentation](#documentation)
 5. [Authors](#authors)
 
-## **:scroll: Introduction** {#introduction}
+## `**:scroll: Introduction** {#introduction}`
  * In this project we coded from scratch a simple Unix shell.
   
   * But what is a shell?
