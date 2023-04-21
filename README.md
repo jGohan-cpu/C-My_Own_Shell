@@ -1,12 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <style>
-      body {
-        color: white !important;
-        background-color: black;
-      }
-    </style>
+    <link rel="stylesheet" type="text/css" href="style.css" />
   </head>
   <body>
     <p>Top</p>
