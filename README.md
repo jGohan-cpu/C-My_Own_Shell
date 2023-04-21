@@ -1,4 +1,5 @@
 <font style="color:white">Top</font>
+<body style="color:white;">
 <p align="center">
   <img src="SimpleShellBanner.gif" width="650" height="200">
 </p>
