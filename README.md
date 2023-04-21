@@ -1,16 +1,7 @@
-<!DOCTYPE html>
-<html>
-  <head>
-    <link rel="stylesheet" type="text/css" href="style.css" />
-  </head>
-  <body>
-    <p>Top</p>
-  </body>
-</html>
+# **Project Name**
 <p align="center">
   <img src="SimpleShellBanner.gif" width="650" height="200">
 </p>
-
 
 ## **📋Table of Contents**
 1. [Introduction](#introduction)
