@@ -1,10 +1,17 @@
-<style>
-body {
-    color: white !important;
-    background-color: black;
-}
-</style>
-<span style="color:white;">Top</span>
+<!DOCTYPE html>
+<html>
+  <head>
+   <style>
+    body {
+     color: white !important;
+     background-color: black;
+    }
+   <style>
+  <head>
+  <body>
+   <p>Top</p>
+  <body> 
+</html>
 <p align="center">
   <img src="SimpleShellBanner.gif" width="650" height="200">
 </p>
