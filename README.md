@@ -1,6 +1,6 @@
-![animated banner](SimpleShellBanner.gif)
+
 <p align="center">
-  <img src="SimpleShellBanner.gif" width="500" height="200">
+  <img src="SimpleShellBanner.gif" width="700" height="400">
 </p>
 
 
