@@ -30,17 +30,15 @@
     
     A shell is an interactive command line interpreter. Which allows user's to type in a defined set of commands (e.g. "rm" to remove files, "cat" to combine word documents, etc) and have the operating system run the appropriate function. It is slightly different from a graphical user interface (GUI). For instance, instead of using a mouse to click to open folders and delete files, a user can type in a command (i.e. "ls" or "rm") and have the files be displayed or modified in a list on the command line. GUI and CLI both have the same purpose to interact with the operating system but their input methods are different and some developers prefer the CLI to interact with the shell because their typing is quicker than clicking and dragging.
     
-[Back to the Top](#table-of-contents)
+[Back to Top](#table-of-contents)
     
 ## **💡Synopsis**
 
   This repository holds all the code necessary for our custom simple shell to run. Our shell currently handles the executions of executables found in the environmental variable PATH, with or without their full paths.
   
-[Back to the Top](#table-of-contents)
+[Back to Top](#table-of-contents)
   
 ## **💽Project**
-
-[Back to the Top](#table-of-contents)
 
 ### **📑General Requirements**
   
@@ -52,19 +50,14 @@
   - All the header files should be include guarded
   - The se system calls should be only when needed to
 
-[Back to the Top](#table-of-contents)
-  
 ### **💻Functions and system calls used**
 
-[Back to the Top](#table-of-contents)
   
 ### **🗂️Description of each file**
 
-[Back to the Top](#table-of-contents)
 
 #### **🗂️Description of helper files**
 
-[Back to the Top](#table-of-contents)
 
 ### **🌎Environment**
   - Language: C
@@ -72,14 +65,11 @@
   - Compiler: gcc
   - Style guideines: Betty Style
 
-[Back to the Top](#table-of-contents)
-    
 ### **💻Compilation**
   - All of our files will be compiled using:
 
     `gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh`
     
-[Back to the Top](#table-of-contents)
   
 ### **💻Testing**
   
@@ -114,8 +104,6 @@
     hsh main.c shell.c test_ls_2
     hsh main.c shell.c test_ls_2
     $
-    
-[Back to the Top](#table-of-contents)
     
 
 #### **💻Sample usage**
