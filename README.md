@@ -36,6 +36,8 @@
 
   This repository holds all the code necessary for our custom simple shell to run. Our shell currently handles the executions of executables found in the environmental variable PATH, with or without their full paths.
   
+[Back to the Top](#table-of-contents)
+  
 ## **💽Project**
 
 [Back to the Top](#table-of-contents)
@@ -76,6 +78,8 @@
   - All of our files will be compiled using:
 
     `gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh`
+    
+[Back to the Top](#table-of-contents)
   
 ### **💻Testing**
   
@@ -110,6 +114,8 @@
     hsh main.c shell.c test_ls_2
     hsh main.c shell.c test_ls_2
     $
+    
+[Back to the Top](#table-of-contents)
     
 
 #### **💻Sample usage**
