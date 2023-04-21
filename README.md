@@ -35,7 +35,7 @@
 
   This repository holds all the code necessary for our custom simple shell to run. Our shell currently handles the executions of executables found in the environmental variable PATH, with or without their full paths.
   
-[Back to Top](#table-of-contents)
+[Back to Top](#project-name)
   
 ## **💽Project**
 
@@ -124,7 +124,7 @@
     (your_terminal)$
     ```
     
-[Back to Top](#table-of-contents)
+[Back to Top](#project-name)
   
     
 ## 📝Project Tasks
@@ -165,16 +165,16 @@
   - Task 6
     - Implement the `env` built-in, that prints the current environment
 
-[Back to Top](#table-of-contents)
+[Back to Top](#project-name)
 
 
 
 ## **📚Project Documentation**
 
-[Back to Top](#table-of-contents)
+[Back to Top](#project-name)
 
 ## 🤝Authors
 ![Jose Rivera](https://github.com/jGohan-cpu)
 ![Eduardo Figueroa](https://github.com/semaed)
 
-[Back to Top](#table-of-contents)
+[Back to Top](#project-name)
