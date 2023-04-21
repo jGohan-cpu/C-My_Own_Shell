@@ -53,10 +53,10 @@
 ### **💻Functions and system calls used**
 
   
-### **🗂️Description of each file**
+### **🗂️ Description of each file**
 
 
-#### **🗂️Description of helper files**
+#### **🗂️ Description of helper files**
 
 
 ### **🌎Environment**
