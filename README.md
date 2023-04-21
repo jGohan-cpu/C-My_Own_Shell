@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="SimpleShellBanner.gif" width="700" height="400">
+  <img src="SimpleShellBanner.gif" width="900" height="200">
 </p>
 
 
