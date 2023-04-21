@@ -1,4 +1,10 @@
-<font style="color:white !important;">Top</font>
+<span style="color:white;">Top</span>
+<style>
+  body {
+    color: white !important;
+    background-color: black;
+  }
+</style>
 <p align="center">
   <img src="SimpleShellBanner.gif" width="650" height="200">
 </p>
