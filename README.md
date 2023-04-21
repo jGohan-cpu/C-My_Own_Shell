@@ -118,7 +118,7 @@
     ```
   
     
-## Project Tasks
+## 📝Project Tasks
 
 -We as a team have to follow a few given tasks to complete this project. Below you will find those tasks and what requirements have each one:
 
