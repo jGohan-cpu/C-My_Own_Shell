@@ -21,6 +21,6 @@ char *read_line(void);
  * Returns 1 on success, 0 on failure.
  */
 char **split_line(char *line);
-int execute(char **args, char **envp); /*function to execute a command*/
+int execute(char **args); /*function to execute a command*/
 
 #endif /* SHELL_H */
