@@ -8,7 +8,7 @@
  *
  * Return: 0 on success, -1 on failure
  */
-int main(int ac, char **av, char **envp)
+int main(int ac, char **av)
 {
 	char *line;/*declare a variable to hold the user input*/
 	char **args;/*declare a variable to hold the parsed arguments*/
@@ -28,7 +28,7 @@ int main(int ac, char **av, char **envp)
 		}
 
 		args = split_line(line);/*parse the user input into arguments*/
-		status = execute(args, envp);/*execute the command*/
+		status = execute(args);/*execute the command*/
 		free(line);/*free the memory allocated for the user input*/
 		free(args);/*free the memory allocated for the parsed arguments*/
 
