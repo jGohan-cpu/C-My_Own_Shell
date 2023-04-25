@@ -7,7 +7,7 @@
  *
  * Return: 0 on success, -1 on failure
  */
-int execute(char **args, char **envp)
+int execute(char **args)
 {
 	pid_t pid;/*process ID*/
 	int status;/*process status*/
@@ -27,7 +27,7 @@ int execute(char **args, char **envp)
 	}
 	if (pid == 0)/*if in the child process*/
 	{
-		if (execve(args[0], args, envp) == -1)/*execute the command*/
+		if (execvp(args[0], args) == -1)/*execute the command*/
 		{
 			/*print error message if command not found*/
 			printf("%s:command not foun\n", args[0]);
