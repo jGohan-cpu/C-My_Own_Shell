@@ -66,8 +66,7 @@
 <!DOCTYPE html>
 <html>
 
-  </style>
-<body>
+  <body>
 
 <table style="width:100%">
   <tr>
@@ -86,8 +85,6 @@
     <td>Mexico</td>
   </tr>
 </table>
-
-<p>To understand the example better, we have added borders to the table.</p>
 
 </body>
 </html>
