@@ -54,13 +54,15 @@
   
 ### **🗃Description of each file**
 
-
-#### **🗂Description of helper files**
-
-| File Name          | Description                           |
+|    File Name       |            Description                |
 |:-------------------|:--------------------------------------|
 | [main.c](./main.c) | Main function that run the shell      |
 | [execute.c](./execute.c)| Responsible to for executing the command given |
+| [promt.c](./prompt.c)| Function which prints the shell prompt symbol ($) |
+| [read_line.c](read_line.c)| Function that read a line of input from the user |
+| [tokens.c](./tokens.c)| Takes user input and splits it into and array of arguments |
+| [exit_shell.c](./exit_shell.c)| Simplify exists the shell witha success |
+| [shell.h](./shell.h)| Header file with prototypes and header files required for the program |
 
 ### **🌎Environment**
   - Language: C
