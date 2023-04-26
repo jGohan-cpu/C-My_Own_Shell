@@ -4,7 +4,7 @@
 </p>
 
 ## **📋 Table of Contents**
-1. [ Introduction]( #introduction)
+1. [Introduction](#introduction)
 2. [Synopsis](#synopsis)
 3. [Project](#Project)
   - [General Requirements](#general-requirements)
@@ -21,7 +21,7 @@
 4. [Project Documentation](#project-documentation)
 5. [Authors](#authors)
 
-## **📜 Introduction**
+## **📜Introduction**
  * In this project we coded from scratch a simple Unix shell.
   
   * But what is a shell?
