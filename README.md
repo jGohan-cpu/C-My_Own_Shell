@@ -4,7 +4,7 @@
 </p>
 
 ## **📋 Table of Contents**
-1. [Introduction](#introduction)
+1. [Introduction](# introduction)
 2. [Synopsis](#synopsis)
 3. [Project](#Project)
   - [General Requirements](#general-requirements)
