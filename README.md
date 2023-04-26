@@ -74,6 +74,10 @@
     <th>Description</th>
   </tr>
   <tr>
+    <td><a href="https://github.com/jGohan-cpu/holbertonschool-simple_shell/blob/master/main.c">main.c</a></td>
+    <td>Main function that run the shell</td>  
+  </tr>
+  <tr>
     <td>main.c</td>
     <td>Main function that run the shell</td>
   </tr>
