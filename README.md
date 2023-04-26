@@ -78,23 +78,19 @@
     <td>Main function that run the shell</td>  
   </tr>
   <tr>
-    <td>main.c</td>
-    <td>Main function that run the shell</td>
-  </tr>
-  <tr>
-    <td>execute.c</td>
+    <td><a href="https://github.com/jGohan-cpu/holbertonschool-simple_shell/blob/master/execute.c">execute.c</a></td>
     <td>Responsible to for executing the command given</td>
   </tr>
   <tr>
-    <td>prompt.c</td>
+    <td><a href="https://github.com/jGohan-cpu/holbertonschool-simple_shell/blob/master/prompt.c">prompt.c</a></td>
     <td>Function which prints the shell prompt symbol ($)</td>
   </tr>
   <tr>
-    <td>read_line.c</td>
+    <td><a href="https://github.com/jGohan-cpu/holbertonschool-simple_shell/blob/master/read_line.c">read_line.c</a></td>
     <td>Function that read a line of input from the user</td>
   </tr>
   <tr>
-    <td>tokens.c</td>
+    <td><a href="https://github.com/jGohan-cpu/holbertonschool-simple_shell/blob/master/tokens.c">tokens.c</a></td>
     <td>Takes user input and splits it into and array of arguments</td>
   </tr>
   <tr>
