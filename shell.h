@@ -12,15 +12,28 @@
  * prompt - display prompt command
  */
 void prompt(void);
+
 /**
  * read_line - Reads a line of input from the user.
+ *
+ * Return: pointer to the line, or NULL if EOF or error
  */
 char *read_line(void);
+
 /**
- * execute - Executes a given command with arguments.
- * Returns 1 on success, 0 on failure.
+ * split_line - split a line into arguments
+ * @line: pointer to the line to split
+ *
+ * Return: pointer to an array of arguments
  */
 char **split_line(char *line);
+
+/**
+ * execute - Executes a given command with arguments.
+ * @args: array of arguments
+ *
+ * Return: 0 on success, -1 on failure
+ */
 int execute(char **args); /*function to execute a command*/
 
 #endif /* SHELL_H */
