@@ -70,19 +70,44 @@
 
 <table style="width:100%">
   <tr>
-    <th>Company</th>
-    <th>Contact</th>
-    <th>Country</th>
+    <th>File Name</th>
+    <th>Description</th>
   </tr>
   <tr>
-    <td>Alfreds Futterkiste</td>
-    <td>Maria Anders</td>
-    <td>Germany</td>
+    <td>main.c</td>
+    <td>Main function that run the shell</td>
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
-    <td>Mexico</td>
+    <td>execute.c</td>
+    <td>Responsible to for executing the command given</td>
+  </tr>
+  <tr>
+    <td>prompt.c</td>
+    <td>Function which prints the shell prompt symbol ($)</td>
+  </tr>
+  <tr>
+    <td>read_line.c</td>
+    <td>Function that read a line of input from the user</td>
+  </tr>
+  <tr>
+    <td>tokens.c</td>
+    <td>Takes user input and splits it into and array of arguments</td>
+  </tr>
+  <tr>
+    <td>exit_shell.c</td>
+    <td>Simplify exists the shell witha success</td>
+  </tr>
+  <tr>
+    <td>shell.h</td>
+    <td>Header file with prototypes and header files required for the program</td>
+  </tr>
+  <tr>
+    <td>man_1_simple_shell</td>
+    <td>Simple man page of our shell</td>
+  </tr>
+  <tr>
+    <td>Authors</td>
+    <td>Names of the authors of the project</td>
   </tr>
 </table>
 
