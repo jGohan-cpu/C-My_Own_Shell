@@ -63,6 +63,60 @@
 | [exit_shell.c](./exit_shell.c)| Simplify exists the shell witha success |
 | [shell.h](./shell.h)| Header file with prototypes and header files required for the program |
 
+<!DOCTYPE html>
+<html>
+
+  <body>
+
+<table style="width:100%">
+  <tr>
+    <th>File Name</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jGohan-cpu/holbertonschool-simple_shell/blob/master/main.c">main.c</a></td>
+    <td>Main function that run the shell</td>  
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jGohan-cpu/holbertonschool-simple_shell/blob/master/execute.c">execute.c</a></td>
+    <td>Responsible to for executing the command given</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jGohan-cpu/holbertonschool-simple_shell/blob/master/prompt.c">prompt.c</a></td>
+    <td>Function which prints the shell prompt symbol ($)</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jGohan-cpu/holbertonschool-simple_shell/blob/master/read_line.c">read_line.c</a></td>
+    <td>Function that read a line of input from the user</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jGohan-cpu/holbertonschool-simple_shell/blob/master/tokens.c">tokens.c</a></td>
+    <td>Takes user input and splits it into and array of arguments</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jGohan-cpu/holbertonschool-simple_shell/blob/master/exit_shell.c>exit_shell.c</a></td>
+    <td>Simplify exists the shell witha success</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jGohan-cpu/holbertonschool-simple_shell/blob/master/shell.h">shell.h</a></td>
+    <td>Header file with prototypes and header files required for the program</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jGohan-cpu/holbertonschool-simple_shell/blob/master/man_1_simple_shell">man_1_simple_shell</a></td>
+    <td>Simple man page of our shell</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jGohan-cpu/holbertonschool-simple_shell/blob/master/AUTHORS">Authors</a></td>
+    <td>Names of the authors of the project</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+
+
+
 ### **🌎Environment**
   - Language: C
   - OS: Ubuntu 20.04
