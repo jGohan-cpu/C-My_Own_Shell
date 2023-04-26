@@ -9,7 +9,7 @@
 3. [Project](#Project)
   - [General Requirements](#general-requirements)
   - [Functions and system calls used](#functions-and-system-calls-used)
-  - [Description of each file](#description-of-each-file)
+    - [Description of each file](#description-of-each-file)
   - [Environment](#environment)
   - [Compilation](#compilation)
   - [Testing](#testing)
