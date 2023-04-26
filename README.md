@@ -10,7 +10,6 @@
   - [General Requirements](#general-requirements)
   - [Functions and system calls used](#functions-and-system-calls-used)
   - [Description of each file](#description-of-each-file)
-    - [Description of helper files](#description-of-helper-files)
   - [Environment](#environment)
   - [Compilation](#compilation)
   - [Testing](#testing)
