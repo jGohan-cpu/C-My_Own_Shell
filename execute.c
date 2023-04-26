@@ -3,7 +3,6 @@
 /**
  * execute - execute a command
  * @args: array of arguments
- * @envp: environment variables
  *
  * Return: 0 on success, -1 on failure
  */
