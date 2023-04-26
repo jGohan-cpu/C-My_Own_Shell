@@ -4,7 +4,6 @@
  * main - simple UNIX command line interpreter
  * @ac: argument count
  * @av: argument vector
- * @envp: environment variables
  *
  * Return: 0 on success, -1 on failure
  */
