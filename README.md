@@ -55,7 +55,7 @@
 
 |    File Name       |           Description                  |
 |:-------------------|:------------------------------------- |
-| [main.c](./main.c) | Main function that run the shell      |
+| [main.c](./main.c) | Main function that run the shell       |
 | [execute.c](./execute.c)| Responsible to for executing the command given |
 | [promt.c](./prompt.c)| Function which prints the shell prompt symbol ($) |
 | [read_line.c](read_line.c)| Function that read a line of input from the user |
