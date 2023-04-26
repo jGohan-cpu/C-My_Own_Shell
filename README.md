@@ -3,7 +3,7 @@
   <img src="SimpleShellBanner.gif" width="650" height="200">
 </p>
 
-## **📋Table of Contents**
+## **📋 Table of Contents**
 1. [Introduction](#introduction)
 2. [Synopsis](#synopsis)
 3. [Project](#Project)
@@ -21,7 +21,7 @@
 4. [Project Documentation](#project-documentation)
 5. [Authors](#authors)
 
-## **📜Introduction**
+## **📜 Introduction**
  * In this project we coded from scratch a simple Unix shell.
   
   * But what is a shell?
@@ -30,15 +30,15 @@
     
 [Back to Top](#project-name)
     
-## **💡Synopsis**
+## **💡 Synopsis**
 
   This repository holds all the code necessary for our custom simple shell to run. Our shell currently handles the executions of executables found in the environmental variable PATH, with or without their full paths.
   
 [Back to Top](#project-name)
   
-## **💽Project**
+## **💽 Project**
 
-### **📑General Requirements**
+### **📑 General Requirements**
   
   - Allowed editors: `vi`, `vim`, `emacs`
   - All the files should end with a new line
@@ -48,10 +48,10 @@
   - All the header files should be include guarded
   - The se system calls should be only when needed to
 
-### **💻Functions and system calls used**
+### **💻 Functions and system calls used**
 
   
-#### **🗃Description of each file**
+#### **🗃 Description of each file**
 
 |    File Name       |           Description                  |
 |:-------------------|:------------------------------------- |
@@ -114,23 +114,23 @@
 </body>
 </html>
 
-### **🌎Environment**
+### **🌎 Environment**
   - Language: C
   - OS: Ubuntu 20.04
   - Compiler: gcc
   - Style guideines: Betty Style
 
-### **💻Compilation**
+### **💻 Compilation**
   - All of our files will be compiled using:
 
     `gcc -Wall -Werror -Wextra -pedantic -std=gnu89 *.c -o hsh`
     
   
-### **💻Testing**
+### **💻 Testing**
   
    -You can test our custom version of the shel in the interactive and non-interactive mode.
     
-#### **💻Interactive mode**
+#### **💻 Interactive mode**
 
   - The shell should work like this in interactive mode:
     
@@ -143,7 +143,7 @@
   $
   ```
     
-#### **💻Non-Interactive mode**
+#### **💻 Non-Interactive mode**
 
   -In the non-interactive mode should work like this:
   
@@ -161,7 +161,7 @@
     $
     
 
-#### **💻Sample usage**
+#### **💻 Sample usage**
 
   - This is a simple example of what and how can you do some commands in our custom shell:
     
@@ -171,7 +171,7 @@
     $ man ./man_1_simple_shell (opens our manpage for more information)
     ```
 
-#### **💻Stop and return to your original shell**
+#### **💻 Stop and return to your original shell**
 
   - To stop our shell and return to your original shell you should type the command:
     
@@ -183,7 +183,7 @@
 [Back to Top](#project-name)
   
     
-## 📝Project Tasks
+## 📝 Project Tasks
 
 -We as a team have to follow a few given tasks to complete this project. Below you will find those tasks and what requirements have each one:
 
@@ -225,11 +225,11 @@
 
 
 
-## **📚Project Documentation**
+## **📚 Project Documentation**
 
 [Back to Top](#project-name)
 
-## 🤝Authors
+## 🤝 Authors
 ![Jose Rivera](https://github.com/jGohan-cpu)
 ![Eduardo Figueroa](https://github.com/semaed)
 
