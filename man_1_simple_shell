@@ -1,39 +1,42 @@
-.TH SIMPLE_SHELL 1 "December 9, 2022" Linux "USER MANUALS"
+.TH SIMPLE_SHELL 1 "April 28, 2023" Linux "USER MANUALS"
 
 .SH NAME
 Simple Shell - command language interpreter
 
-.SH SYPNOSIS
- #include "simple_shell.h"
- ./hsh.
+.SH SYNOPSIS
+#include "shell.h"
+./hsh
 
-.SH DECRIPTION
-Simple shell is one version of a command language interpreter that executes commands read from the standard input. It's functionality is limites to certain shell builtin functions found in the enviormental variables.
-
-.SS PATH
-It does not yet handle piping, redirections, pattern matching, variables expansions.
+.SH DESCRIPTION
+The Simple Shell is a basic command language interpreter that processes commands read from standard input.
+It provides limited shell functionality, including executing commands with arguments, handling environmental
+variables, and exiting the shell. The Simple Shell does not yet support advanced features like piping, redirections,
+pattern matching, or variable expansions.
 
 .SS INVOCATION
 .IP Interactive
-Simple shell can be invoked by typing ./hsh.
+To invoke Simple Shell in interactive mode, type ./hsh.
 
 .IP Non-Interactive
-Simple shell can also be invoked via a pipe (e.g. echo "/bin/ls" | ./hsh).
+To invoke Simple Shell in non-interactive mode, use a pipe (e.g., echo "/bin/ls" | ./hsh).
 
-.SS Command Execution
-After a command has been split into words, if it results in a simple command and an optional list of arguments, the following actions are taken.
+.SS COMMAND EXECUTION
+When a command has been divided into words, resulting in a simple command with an optional list of arguments,
+the following actions are performed:
 
 /bin/ls
 
 .IP [[flags]...[arguments]]
-Lists files in the current directory according to the flags given by user
+Lists files in the current directory based on the user-provided flags.
 
 .SS SHELL BUILTIN COMMANDS
-    env - prints environmental variables
-    exit - exits out of simple shell and returns to user's original shell
+.IP "env"
+Displays the environmental variables.
+.IP "exit"
+Exits the Simple Shell and returns to the original user shell.
 
 .SH BUGS
 No known bugs.
 
-.SH AUTHOR
+.SH AUTHORS
 Jose Rivera and Eduardo Figueroa
