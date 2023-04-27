@@ -22,7 +22,6 @@ int main(int ac, char **av)
 
 		if (line == NULL)/*exito on EOF (Crtl+D)*/
 		{
-			printf("\n");
 			break;
 		}
 
