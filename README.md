@@ -84,10 +84,6 @@
     <td>Takes user input and splits it into and array of arguments</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/jGohan-cpu/holbertonschool-simple_shell/blob/master/exit_shell.c">exit_shell.c</a></td>
-    <td>Simplify exists the shell witha success</td>
-  </tr>
-  <tr>
     <td><a href="https://github.com/jGohan-cpu/holbertonschool-simple_shell/blob/master/shell.h">shell.h</a></td>
     <td>Header file with prototypes and header files required for the program</td>
   </tr>
