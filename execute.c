@@ -36,7 +36,7 @@ int execute(char **args)
 	else/*if in the parent process*/
 	{
 		do {
-			waitpid(pid, &status, WUNTRACED);/*wait for chil process to finish*/
+			waitpid(pid, &status, WUNTRACED);/*wait for child process to finish*/
 			/*check for process status*/
 		} while (!WIFEXITED(status) && !WIFSIGNALED(status));
 	}
