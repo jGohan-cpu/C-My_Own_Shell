@@ -18,7 +18,6 @@
     - [Sample usage](#sample-usage)
     - [Stop and return to your original shell](#stop-and-return-to-your-original-shell)
   - [Project Tasks](#project-tasks)
-4. [Project Documentation](#project-documentation)
 5. [Authors](#authors)
 
 ## **📜Introduction**
@@ -209,12 +208,6 @@
     - Don’t have to handle any argument to the built-in `exit`
   - Task 6
     - Implement the `env` built-in, that prints the current environment
-
-[Back to Top](#project-name)
-
-
-
-## **📚Project Documentation**
 
 [Back to Top](#project-name)
 
