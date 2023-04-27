@@ -5,5 +5,10 @@
  */
 void prompt(void)
 {
-	printf("$ ");/*print the shell prompt symbol*/
+	/*Only prints the prompt if running interactively */
+	if (isatty(STDIN_FILENO))
+	{
+
+		printf("$ ");/*print the shell prompt symbol*/
+	}
 }
