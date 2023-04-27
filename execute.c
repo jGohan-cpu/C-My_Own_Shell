@@ -29,7 +29,7 @@ int execute(char **args)
 		if (execvp(args[0], args) == -1)/*execute the command*/
 		{
 			/*print error message if command not found*/
-			printf("%s:command not foun\n", args[0]);
+			printf("%s:command not found\n", args[0]);
 			exit(EXIT_FAILURE);/*exit child process if command execution fails*/
 		}
 	}
