@@ -18,10 +18,10 @@ int execute(char **args)
 	if (strcmp(args[0], "exit") == 0)
 		return	(-1);
 
-	/*Check if the command is the env builtin*/
+	/*Check if the first argument is "env". If so, call the builtin_env function*/
 	if (builtin_env(args) == 0)
 	{
-		return (0);
+		return (0);/*return 0 on success*/
 	}
 
 	pid = fork();/*create a new process*/
