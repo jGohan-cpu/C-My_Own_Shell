@@ -35,14 +35,14 @@ int execute(char **args)
 		if (execvp(args[0], args) == -1)/*execute the command*/
 		{
 			/*print error message if command not found*/
-			printf("%s:command not foun\n", args[0]);
+			printf("%s:command not found\n", args[0]);
 			exit(EXIT_FAILURE);/*exit child process if command execution fails*/
 		}
 	}
 	else/*if in the parent process*/
 	{
 		do {
-			waitpid(pid, &status, WUNTRACED);/*wait for chil process to finish*/
+			waitpid(pid, &status, WUNTRACED);/*wait for child process to finish*/
 			/*check for process status*/
 		} while (!WIFEXITED(status) && !WIFSIGNALED(status));
 	}
