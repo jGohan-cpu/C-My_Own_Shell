@@ -8,7 +8,7 @@
 #include <sys/wait.h>
 #include <sys/types.h>
 
-extern char **environ;
+extern char **environ;/*Access the environmental variables*/
 
 /**
  * prompt - display prompt command
