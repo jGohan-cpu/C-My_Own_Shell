@@ -8,6 +8,8 @@
 #include <sys/wait.h>
 #include <sys/types.h>
 
+extern char **environ;
+
 /**
  * prompt - display prompt command
  */
@@ -35,5 +37,9 @@ char **split_line(char *line);
  * Return: 0 on success, -1 on failure
  */
 int execute(char **args); /*function to execute a command*/
+
+/* Handle the environmetal*/
+int builtin_env(char **args);
+
 
 #endif /* SHELL_H */
