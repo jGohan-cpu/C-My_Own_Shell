@@ -18,7 +18,6 @@
     - [Sample usage](#sample-usage)
     - [Stop and return to your original shell](#stop-and-return-to-your-original-shell)
   - [Project Tasks](#project-tasks)
-4. [Project Documentation](#project-documentation)
 5. [Authors](#authors)
 
 ## **📜Introduction**
@@ -82,10 +81,6 @@
   <tr>
     <td><a href="https://github.com/jGohan-cpu/holbertonschool-simple_shell/blob/master/tokens.c">tokens.c</a></td>
     <td>Takes user input and splits it into and array of arguments</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/jGohan-cpu/holbertonschool-simple_shell/blob/master/exit_shell.c">exit_shell.c</a></td>
-    <td>Simplify exists the shell witha success</td>
   </tr>
   <tr>
     <td><a href="https://github.com/jGohan-cpu/holbertonschool-simple_shell/blob/master/shell.h">shell.h</a></td>
@@ -213,12 +208,6 @@
     - Don’t have to handle any argument to the built-in `exit`
   - Task 6
     - Implement the `env` built-in, that prints the current environment
-
-[Back to Top](#project-name)
-
-
-
-## **📚Project Documentation**
 
 [Back to Top](#project-name)
 
