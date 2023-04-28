@@ -82,6 +82,11 @@
     <td><a href="https://github.com/jGohan-cpu/holbertonschool-simple_shell/blob/master/tokens.c">tokens.c</a></td>
     <td>Takes user input and splits it into and array of arguments</td>
   </tr>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/jGohan-cpu/holbertonschool-simple_shell/blob/master/env.c">env.c</a></td>
+    <td>Handles the environmetal varibles</td>
+  </tr>
   <tr>
     <td><a href="https://github.com/jGohan-cpu/holbertonschool-simple_shell/blob/master/shell.h">shell.h</a></td>
     <td>Header file with prototypes and header files required for the program</td>
